@@ -1,9 +1,9 @@
 
 title: "Santosh Srivatsa"
 author: "Santosh Srivatsa"
-description: <span>
+description: "<span>
     Made with <i class="fa fa-heart pulse"></i> in <a href="#" target="_blank">Chicago </a>
-</span>
+</span>"
 permalink: /:title/
 lang: "en"
 excerpt_separator: "\n\n\n"
