@@ -1,12 +1,7 @@
 
 title: "Santosh Srivatsa"
 author: "Santosh Srivatsa"
-description: "<script>
-console.info(
-  'Made with %c♥%c in Chicago',
-  'color: #e25555', 'color: unset'
-);
-</script>"
+description: "Made with ♥ in Chicago
 permalink: /:title/
 lang: "en"
 excerpt_separator: "\n\n\n"
@@ -21,16 +16,17 @@ show_sidebar: false        # show a sidebar instead of the usual header
 # Menu
 
 navigation:                # accepts {file, title, url, icon, sidebaricon}
-  - {file: "index.md"}
-  - {url: "/katie.pdf", title: CV}
-  - {url: "http://childlanglab.com", title: Lab}
-  - {file: "blog.md"}
+  - {file: "index.md", title: ABOUT ME}
+  - {url: "/https://san-to-sh.github.io", title: HOME}
+
 
 
 external:                  # shows a footer with social links - for available icons see fontawesome.com/icons
-  - {title: Mail, icon: envelope, url: "mailto:kathryn.schuler@gmail.com"}
-  - {title: Github, icon: github, url: "https://github.com/kschuler"}
-  - {title: Twitter, icon: twitter, url: "https://twitter.com/KathrynSchuler"}
+  - {title: Github, icon: github, url: "https://github.com/san-to-sh"}
+  - {title: Twitter, icon: twitter, url: "https://twitter.com/santoiscurious"}
+  - {title: Medium, icon: medium, url: "https://medium.com/@santoshsrivatsa"}
+  - {title: Instagram, icon: instagram, url: "https://www.instagram.com/santoshsrivatsa"}
+  
 
 
 remote_theme: niklasbuschmann/contrast@v2.11
