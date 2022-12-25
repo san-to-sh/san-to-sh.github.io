@@ -1,12 +1,12 @@
 
 title: "Santosh Srivatsa"
 author: "Santosh Srivatsa"
-description: <script>
+description: "<script>
 console.info(
   'Made with %c♥%c in Chicago',
   'color: #e25555', 'color: unset'
 );
-</script>
+</script>"
 permalink: /:title/
 lang: "en"
 excerpt_separator: "\n\n\n"
