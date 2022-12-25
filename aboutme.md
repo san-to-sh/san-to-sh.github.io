@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "ABOUT ME"
+title: ""
 ---
 
 I'm a data science professional based out of Chicago. I'm passionate about tech, fitness and entrepreneurship.
