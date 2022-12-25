@@ -2,7 +2,8 @@
 layout: page
 title: ""
 ---
-![alt text](https://github.com/san-to-sh/san-to-sh.github.io/blob/main/img.jpg)
+
+<img src="img.jpg" alt="hi" class="inline"/>
 
 I'm a data science professional based out of Chicago. I'm passionate about tech, fitness and entrepreneurship.
 
