@@ -17,7 +17,7 @@ show_sidebar: false        # show a sidebar instead of the usual header
 
 navigation:                # accepts {file, title, url, icon, sidebaricon}
   - {file: "index.md", title: ABOUT ME}
-  - {url: "/https://san-to-sh.github.io", title: HOME}
+  - {url: "https://san-to-sh.github.io", title: HOME}
 
 
 
