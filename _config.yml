@@ -1,6 +1,5 @@
-
-title: "Santosh Srivatsa"
-author: "Santosh Srivatsa"
+title: "Santosh Vasudevan"
+author: "Santosh Vasudevan"
 description: "Made with ♥ in Chicago"
 permalink: /:title/
 lang: "en"
@@ -18,6 +17,8 @@ show_sidebar: false        # show a sidebar instead of the usual header
 navigation:                # accepts {file, title, url, icon, sidebaricon}
   - {file: "index.md", title : HOME}
   - {file: "aboutme.md", title : ABOUT ME}
+  - {file: "projects.md", title : PROJECTS}
+  - {file: "blog.md", title : BLOG}
 
 
 
