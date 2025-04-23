@@ -24,4 +24,10 @@ title: "Image Test"
 <img src="images/profile.png" alt="Test Image 6" width="300">
 
 ### Method 7: Absolute Path with Renamed Image
-<img src="/images/profile.png" alt="Test Image 7" width="300"> 
+<img src="/images/profile.png" alt="Test Image 7" width="300">
+
+### Method 8: Optimized JPEG
+<img src="images/profile_optimized.jpg" alt="Test Image 8" width="300">
+
+### Method 9: Absolute Path with Optimized JPEG
+<img src="/images/profile_optimized.jpg" alt="Test Image 9" width="300"> 
