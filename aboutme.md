@@ -3,7 +3,7 @@ layout: page
 title: ""
 ---
 
-<img src="images/IMG_4886.png" alt="Hello" class="inline" width="300" style="border-radius: 8px; margin-bottom: 20px;"/>
+![Hello]({{ site.baseurl }}/images/IMG_4886.png){: .inline width="300" style="border-radius: 8px; margin-bottom: 20px;"}
 
 I'm a data science professional based out of Chicago. I'm passionate about tech, fitness and entrepreneurship.
 
