@@ -18,4 +18,10 @@ title: "Image Test"
 <img src="./images/IMG_4886.png" alt="Test Image 4" width="300">
 
 ### Method 5: Using site.url
-<img src="{{ site.url }}/images/IMG_4886.png" alt="Test Image 5" width="300"> 
+<img src="{{ site.url }}/images/IMG_4886.png" alt="Test Image 5" width="300">
+
+### Method 6: With Renamed Image
+<img src="images/profile.png" alt="Test Image 6" width="300">
+
+### Method 7: Absolute Path with Renamed Image
+<img src="/images/profile.png" alt="Test Image 7" width="300"> 
