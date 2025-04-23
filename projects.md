@@ -10,4 +10,4 @@ A Streamlit-based application designed to help with meal planning and nutrition.
 
 **Technologies Used:** Python, Streamlit
 
-*More projects coming soon... something cool is definitely brewing.* 
+*More exciting projects coming soon... something cool is definitely brewing.* 
