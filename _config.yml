@@ -19,6 +19,7 @@ navigation:                # accepts {file, title, url, icon, sidebaricon}
   - {file: "aboutme.md", title : ABOUT ME}
   - {file: "projects.md", title : PROJECTS}
   - {file: "blog.md", title : BLOG}
+  - {file: "imagetest.md", title : IMAGE TEST}
 
 
 
